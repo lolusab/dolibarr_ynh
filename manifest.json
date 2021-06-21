@@ -1,6 +1,6 @@
 {
     "name": "Dolibarr",
-    "id": "dolibarr",
+    "id": "dolibarr_sl42",
     "packaging_format": 1,
     "description": {
         "en": "Manage the various aspects of your business or association.",
@@ -10,8 +10,8 @@
     "url": "https://www.dolibarr.org/",
     "license": "GPL-3.0-or-later",
     "maintainer": {
-        "name": "mastereur",
-        "url": "https://github.com/mastereur"
+        "name": "lolusab - SL42",
+        "url": "https://github.com/lolusab"
     },
     "requirements": {
         "yunohost": ">= 4.0.0"
